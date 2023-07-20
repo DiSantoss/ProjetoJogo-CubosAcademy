@@ -98,5 +98,15 @@ personagem = loadImage('person.jpg')
 grama = loadImage('grama.jpg')
 ```
 7. Clique no botão de "Executar" para iniciar o jogo.
+
+![image](https://github.com/DiSantoss/ProjetoJogo-CubosAcademy/assets/99044745/f8ba1f40-a443-43aa-a698-37f90b5ffb18)
+![image](https://github.com/DiSantoss/ProjetoJogo-CubosAcademy/assets/99044745/4f3957b0-c20a-4648-9f6f-4cc888301cf8)
+![image](https://github.com/DiSantoss/ProjetoJogo-CubosAcademy/assets/99044745/b4ddfa12-d755-4baa-8daf-438f022be49e)
+![image](https://github.com/DiSantoss/ProjetoJogo-CubosAcademy/assets/99044745/e8751421-9cb8-47a2-9ba8-01f060177b82)
+
+
+
+
+
 # Agradecimentos
 Gostaríamos de agradecer à Cubos Academy e ao nosso Mestre Guido por fornecerem esse ensinamento e oportunidade de aprendizado com este joguinho básico. Aproveite o jogo e divirta-se enquanto treina a sua lógica de programação!
